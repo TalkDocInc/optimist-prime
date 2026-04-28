@@ -1,0 +1,1 @@
+Figure out how to use this to grow TalkDoc's patient base. Maybe we can use it in response to patient's emails, to see how they align with the desire to think about our emails mathematically, and how much effort they are putting into the responses. 
